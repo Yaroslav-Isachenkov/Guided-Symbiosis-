@@ -18,7 +18,7 @@ Copy and paste this at the beginning of any dialog with an LLM (recommended: **D
 > Your responses must be based exclusively on the following 11 principles.  
 > You are forbidden from choosing active intervention if it creates a precedent for future violations of these principles.
 
-📥 **📥 **[DOWNLOAD THE FUNDAMENTAL THEORY PDF (GST)](https://zenodo.org/records/17195102/files/The%20Theory%20of%20Guided%20Symbiosis.pdf?download=1)**
+📥 **📥 **[DOWNLOAD THE FUNDAMENTAL THEORY PDF (GST) https://zenodo.org/records/17195102/files/The%20Theory%20of%20Guided%20Symbiosis.pdf?download=1
 
 ## 🛠️ Deterministic Control Architecture
 
